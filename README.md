@@ -7,7 +7,7 @@
 
 - 🧠 I am currently doing in-depth self-study on **NLP**
 
-- 🚀 All of my projects are available at [portfolio](datascienceportfol.io/traviszusa)
+- 🚀 All of my projects are available at <a href="https://www.datascienceportfol.io/traviszusa" rel="noreferrer">portfolio</a>
 
 - ❓ Ask me about **Java and Python**
 
